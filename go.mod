@@ -16,7 +16,7 @@ require (
 	github.com/glycerine/rbtree v0.0.0-20190406191118-ceb71889d809 // indirect
 	github.com/gogo/protobuf v1.2.1
 	github.com/golang/protobuf v1.3.2
-	github.com/golang/snappy v0.0.1 // indirect
+	github.com/golang/snappy v0.0.3 // indirect
 	github.com/google/flatbuffers v1.11.0
 	github.com/gorilla/websocket v1.4.1 // indirect
 	github.com/hprose/hprose-go v0.0.0-20161031134501-83de97da5004
@@ -32,6 +32,7 @@ require (
 	github.com/pascaldekloe/colfer v1.7.2 // indirect
 	github.com/pascaldekloe/name v1.0.0 // indirect
 	github.com/philhofer/fwd v1.0.0 // indirect
+	github.com/pierrec/lz4 v2.6.1+incompatible // indirect
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/protolambda/zssz v0.1.1 // indirect
 	github.com/prysmaticlabs/go-bitfield v0.0.0-20190825002834-fb724e897364 // indirect
